@@ -114,14 +114,20 @@ hello [^hello]
 	* 脚本语言
 		* 伟大的Python
 
->数据结构
->>树
->>>二叉树
->>>>平衡二叉树
->>>>>满二叉树
-
 |项目|价格|数量|
 |----|----|----|
 |电脑|1000|1|
 |手机|200|3|
 |平板|400|7|
+
+###流程图
+```flow
+st=>start:Start
+e=>end
+op=>operation:My Operation
+cond=>condition:Yes or No?
+
+st->op->cond
+cond(yes)->e
+cond(no)->op
+```
