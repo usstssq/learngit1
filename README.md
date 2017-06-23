@@ -51,3 +51,9 @@ learngit on 20160608
 >>>>平衡二叉树
 >>>>>满二叉树
 
+![看我漂亮吗?](http://mmbiz.qpic.cn/mmbiz/gugMAt70dZpiaWVFQUic0VW0gKESHCYR5PNxWKuVYrx9dvhd1OZSsOW8DbRXLzT8EaR9hQK0p3uyebOSuvoMVanQ/640?tp=webp&wxfrom=5&wx_lazy=1 "鼠标指上去显示的文字.")
+
+插入图片的方法:
+叹号!+方括号[这里的文本是干什么用的,不清楚]+括号(图片地址URL)
+
+如果不加叹号,就会变成普通的文本。
