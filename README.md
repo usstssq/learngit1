@@ -136,3 +136,10 @@ cond(no)->op
 LaTeX公式
 * $表示行内公式
 质能守恒方程: $`E=mc^2`$来表达
+
+This math is inline $`a^2+b^2=c^2`$.
+
+This is on a separate line
+```math
+a^2+b^2=c^2
+```
