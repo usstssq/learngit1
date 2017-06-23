@@ -51,14 +51,14 @@ learngit on 20160608
 ![看我漂亮吗?](http://mmbiz.qpic.cn/mmbiz/gugMAt70dZpiaWVFQUic0VW0gKESHCYR5PNxWKuVYrx9dvhd1OZSsOW8DbRXLzT8EaR9hQK0p3uyebOSuvoMVanQ/640?tp=webp&wxfrom=5&wx_lazy=1 "鼠标指上去显示的文字.")
 
 插入图片的方法:
-叹号!+方括号[这里的文本是干什么用的,不清楚]+括号(图片地址URL)
+叹号!+方括号[如果图片地址不对，显示不出来，则显示这里的文字]+括号(图片地址URL)
 
 如果不加叹号,就会变成普通的文本。
 
 下面这个图片是带超链接功能的:
 
-[![baidu]](http://baidu.com)
-[baidu]:http://www.baidu.com/img/bdlogo.gif "百度Logo"
+![baidu][baiduid]
+[baiduid]:http://www.baidu.com/img/bdlogo.gif "百度Logo"
 
 [![bing]](http://www.bing.com)
 [bing]:http://tse2.mm.bing.net/th?id=OIP.hRtZ0IypTEV1ksbdQ3u_7QE8DF&w=270&h=168&c=7&qlt=90&o=4&pid=1.7 "bing的log"
@@ -102,7 +102,7 @@ __粗体文字__
 
 脚注:
 
-hello[^hello]
+hello [^hello]
 
 分割线:
 
