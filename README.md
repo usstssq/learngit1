@@ -32,6 +32,6 @@ learngit on 20160608
 
 [这是一个超链接,跳转到bing搜索](http://www.bing.com)
 
-[这是一个超链接,鼠标悬停在上面试试](htt://www.bing.com "悬停显示")
+[这是一个超链接,鼠标悬停在上面试试](http://www.bing.com "悬停显示")
 
 
