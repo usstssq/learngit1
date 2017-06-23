@@ -59,6 +59,7 @@ learngit on 20160608
 如果不加叹号,就会变成普通的文本。
 
 下面这个图片是带超链接功能的:
+
 [![bing]](http://www.bing.com)
 [bing]:http://tse2.mm.bing.net/th?id=OIP.hRtZ0IypTEV1ksbdQ3u_7QE8DF&w=270&h=168&c=7&qlt=90&o=4&pid=1.7 "bing的log"
 
